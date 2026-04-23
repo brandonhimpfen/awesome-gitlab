@@ -97,6 +97,7 @@
 - [Sentry Integration](https://docs.gitlab.com/ee/user/project/integrations/sentry.html) – Error tracking integration.
 - [Datadog Integration](https://docs.gitlab.com/ee/user/project/integrations/datadog.html) – Monitoring and observability.
 - [PagerDuty Integration](https://docs.gitlab.com/ee/user/project/integrations/pagerduty.html) – Incident response and alerting.
+- [YAML Validator](https://yamlvalidator.dev) – Online YAML validator and [Chrome extension](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) with JSON Schema support for GitLab CI, Kubernetes, Docker Compose, and other configuration formats.
 
 ## Project & Product Management
 
