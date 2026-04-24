@@ -97,6 +97,7 @@
 - [Sentry Integration](https://docs.gitlab.com/ee/user/project/integrations/sentry.html) – Error tracking integration.
 - [Datadog Integration](https://docs.gitlab.com/ee/user/project/integrations/datadog.html) – Monitoring and observability.
 - [PagerDuty Integration](https://docs.gitlab.com/ee/user/project/integrations/pagerduty.html) – Incident response and alerting.
+- [PR Radar](https://github.com/deployhq/pr-radar) – Free browser extension providing a unified MR dashboard with CI status, unresolved comments, review state, and notifications.
 
 ## Project & Product Management
 
